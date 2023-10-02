@@ -1,4 +1,4 @@
-# A_star-path-planning
+# Path Planning of Robot
 
 This project is related to Path Planning of Robot using ROS noetic, Ubuntu 20.04 and Gazebo Simulator. Read the below instruction to run the project on local 
 
